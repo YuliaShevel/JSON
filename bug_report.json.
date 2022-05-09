@@ -1,1 +1,11 @@
-
+{
+  "bug_number":"1",
+  "summary":"what, where, how",
+  "description":"..."
+  "steps_to_reproduse":"..."
+  "environment":"...",
+  "siverity":"...",
+  "priority":"..",
+  "actual_result":"...",
+  "expected_result":"..."
+}
